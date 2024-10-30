@@ -1,1 +1,2 @@
 # Sinema-Otomasyonu-Proje
+# Özellikler
